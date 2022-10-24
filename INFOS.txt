@@ -1,2 +1,10 @@
 Git local azure :
 https://simplefeedreader20221024122449-staging.scm.azurewebsites.net:443/simplefeedreader20221024122449.git
+
+User:
+simplefeedreader20221024122449__staging\$simplefeedreader20221024122449__staging
+MDP:
+8mBaPDlC7twb9sa4DQLDmmmiiJSGHLPx088pWWAfabvcJNx6s4BoSmRJsYJh
+
+test.laurent
+lc4666
